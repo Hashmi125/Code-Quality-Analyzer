@@ -1,0 +1,17 @@
+/ (root)
+  README.md
+  requirements.txt
+  Dockerfile
+  docker-compose.yml
+  /analyzer
+    __init__.py
+    ast_parser.py
+    ml_model.py
+    nlp_analysis.py
+  /api
+    __init__.py
+    main.py
+  /example_code
+    sample.py
+  /tests
+    test_ast_parser.py
