@@ -25,5 +25,5 @@ An advanced static code analysis tool that evaluates code quality, detects poten
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/code-quality-analyzer.git
+git clone https://github.com/Hashmi125/code-quality-analyzer.git
 cd code-quality-analyzer
